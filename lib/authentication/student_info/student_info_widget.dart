@@ -167,7 +167,7 @@ class _StudentInfoWidgetState extends State<StudentInfoWidget>
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   0.0, 12.0, 0.0, 24.0),
                               child: Text(
-                                'Fill out the information below in order to create your account.',
+                                'Fill out the information of your college below in order to create your account.',
                                 textAlign: TextAlign.center,
                                 style: FlutterFlowTheme.of(context)
                                     .labelMedium
@@ -639,6 +639,35 @@ class _StudentInfoWidgetState extends State<StudentInfoWidget>
                                   final buttonUsersRecord = snapshot.data!;
                                   return FFButtonWidget(
                                     onPressed: () async {
+                                      if (_model.stateNameValue!.length == 0 ||
+                                          _model.cityNameValue!.length == 0 ||
+                                          _model.collegeNameValue!.length ==
+                                              0 ||
+                                          _model.studentYearValue!.length ==
+                                              0) {
+                                        ScaffoldMessenger.of(context)
+                                            .showSnackBar(
+                                          const SnackBar(
+                                            content: Text(
+                                              'Please fill all details...',
+                                            ),
+                                          ),
+                                        );
+                                        return;
+                                      }
+                                      if (_model
+                                              .phoneNumberTextController.text ==
+                                          "") {
+                                        ScaffoldMessenger.of(context)
+                                            .showSnackBar(
+                                          const SnackBar(
+                                            content: Text(
+                                              'Please fill all details...',
+                                            ),
+                                          ),
+                                        );
+                                        return;
+                                      }
                                       await buttonUsersRecord.reference
                                           .update(createUsersRecordData(
                                         collegeState: _model.stateNameValue,

@@ -652,7 +652,16 @@ class _SignupPageWidgetState extends State<SignupPageWidget>
                                     );
                                     return;
                                   }
-
+                                  if (_model.firstNameTextController.text == "" || _model.lastNameTextController.text == "") {
+                                    ScaffoldMessenger.of(context).showSnackBar(
+                                      const SnackBar(
+                                        content: Text(
+                                          'Please fill all details',
+                                        ),
+                                      ),
+                                    );
+                                    return;
+                                  }
                                   final user =
                                       await authManager.createAccountWithEmail(
                                     context,
