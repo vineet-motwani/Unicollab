@@ -1,0 +1,46 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "cities",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "state_ref",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "city_name",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chat_messages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "chat",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "todo",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "task_creator",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "task_deadline",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

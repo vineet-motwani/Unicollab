@@ -1,2 +1,7 @@
-# Unicollab
-A Mobile App made for students of various colleges and universities to collaborate depending on their branch.
+# Unicollab-freelance
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

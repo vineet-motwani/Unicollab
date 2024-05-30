@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766571657463",
+    "project_id": "unicollab-f6e1e",
+    "storage_bucket": "unicollab-f6e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766571657463:android:5469eba4e5b50c48cf7bf2",
+        "android_client_info": {
+          "package_name": "com.mycompany.unicollabfreelance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBy-zyXQwtUyN8kRv8wl7yP4pgd-fZptg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
