@@ -9,15 +9,13 @@
 
 ### Sneak-peak of the application 📷
 
-
-![1 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/de32fedc-d0f7-4a25-8185-6a3f66edbb39)
-![2 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/29dfef94-e69c-4840-8752-71bf60ffa510)
-![3 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/659e323e-495a-4293-b827-75d6adc0b2e3)
-![4 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/d0799f60-1d0f-43c2-9067-405047738cd6)
-![5 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/8c42b180-0a92-4a41-bdff-25960089652d)
-![6 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/7afb37c8-8fe2-4781-a320-5d9b733d6ce6)
-![7 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/9ee3b780-b4b8-4fb4-b8ed-dc1af8e24284)
-
+![1](https://github.com/vineet-motwani/Unicollab/assets/95994219/14ec4018-f156-4adf-b39f-71c4a87f20e8) 
+![2](https://github.com/vineet-motwani/Unicollab/assets/95994219/0109a6d0-f64a-42eb-b439-7368543ff7dc) 
+![3](https://github.com/vineet-motwani/Unicollab/assets/95994219/d98d6b1d-9b95-4256-afa7-0fc6fd39ea6f) 
+![4](https://github.com/vineet-motwani/Unicollab/assets/95994219/8515ff72-e465-4fe1-b5eb-4f96259bec34) 
+![5](https://github.com/vineet-motwani/Unicollab/assets/95994219/ae89d4bf-f836-4a62-b368-14c5c1d0cc88) 
+![6](https://github.com/vineet-motwani/Unicollab/assets/95994219/1e717d12-2851-4e2d-9ed7-104649a4ab4b) 
+![7](https://github.com/vineet-motwani/Unicollab/assets/95994219/a4cc58d1-4ff5-4363-a6b3-9cfeaab459ee) 
 
 
 ### Installation 🚀
