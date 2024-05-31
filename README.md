@@ -1,4 +1,4 @@
-![1 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/ec701f89-91e4-4640-94a5-4850611f7e88)# Welcome to Unicollab 👋
+# Welcome to Unicollab 👋
 
 - It is an application that connects students from different colleges and universities of same branches to collaborative online and study togethter. 🌱
 - We addresses a common need among students for peer learning and provides a platform that facilitates productive study sessions. 💬
@@ -8,11 +8,15 @@
 ![Vajp09UFX78d_1024_500](https://github.com/vineet-motwani/Unicollab/assets/95994219/99348494-fcdd-494c-9b37-df7411697a59)
 
 ### Sneak-peak of the application 📷
-![3 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/3d3e79b7-6298-49af-bf03-e85abeae99c8)
-![2 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/1baa4200-dfba-4c3e-8e53-2cdd082d99ab)
-![4 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/a8bbf418-68cd-4325-a0f8-5075cc2864ff)
-![6 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/aae48afc-4caa-462e-a732-12ad0043a40f)
-![5 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/68af6f18-caa9-4af5-bd02-8584ff34465e)
+
+
+![1 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/de32fedc-d0f7-4a25-8185-6a3f66edbb39)
+![2 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/29dfef94-e69c-4840-8752-71bf60ffa510)
+![3 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/659e323e-495a-4293-b827-75d6adc0b2e3)
+![4 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/d0799f60-1d0f-43c2-9067-405047738cd6)
+![5 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/8c42b180-0a92-4a41-bdff-25960089652d)
+![6 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/7afb37c8-8fe2-4781-a320-5d9b733d6ce6)
+![7 (1)](https://github.com/vineet-motwani/Unicollab/assets/95994219/9ee3b780-b4b8-4fb4-b8ed-dc1af8e24284)
 
 
 
